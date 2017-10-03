@@ -1,1 +1,0 @@
-# Get-a-list-of-VMs-running-on-VMware-Fusion
